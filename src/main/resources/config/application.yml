@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/sms
+    username: postgres
+    password: postgres123
+
+server:
+  port: 8085
